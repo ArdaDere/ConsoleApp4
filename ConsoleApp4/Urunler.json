@@ -1,0 +1,14 @@
+﻿[
+    {
+        "UrunAdi": "Bilgisayar",
+        "Fiyat": 24500
+    },
+    {
+        "UrunAdi": "Klavye",
+        "Fiyat": 450
+    },
+    {
+        "UrunAdi": "Telefon",
+        "Fiyat": 7999
+    }
+]
